@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lovesick Girls",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-26T11:17:00.347028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovesick Girls (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Lovesick_Girls_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovesick Girls - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_Lovesick_Girls_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovesick Girls - JP Ver.",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Lovesick_Girls_-_JP_Ver._BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "Raon Lee",
+      "has_synced": false,
+      "path": "select/06_Lovesick_Girls_Raon_Lee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovesick Girls -JP ver.-",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_Lovesick_Girls_-JP_ver.-_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovesick Girls (Instrumental)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Lovesick_Girls_(Instrumental)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BLACKPINK - 'Lovesick Girls' M/V",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_BLACKPINK_-_'Lovesick_Girls'_M_V_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_Lovesick_Girls_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lovesick Girls (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_Lovesick_Girls_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Lovesick_Girls_BLACKPINK.txt"
+    }
+  ]
+}
